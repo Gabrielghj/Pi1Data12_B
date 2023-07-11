@@ -59,7 +59,7 @@ Algunas de las conclusiones del análisis exploratorio de datos son las siguient
 
 ## Endpoints
 PELICULAS POR IDIOMA
-+ def peliculas_idioma(idioma: str)
++ peliculas_idioma(idioma: str)
 + Se ingresa un idioma (como están escritos en el dataset)y devuelve la cantidad de películas producidas en ese idioma.
 + Se debe ingresar el codigo del idioma:  
     'en': 'Inglés',
@@ -80,19 +80,19 @@ PELICULAS POR IDIOMA
     'vi': 'Vietnamita'
                     
 PELICULAS POR DURACION
-+ def peliculas_duracion(pelicula:str):
++ peliculas_duracion(pelicula:str):
 + Se ingresa una pelicula y devuelve la duracion y el año.
 
 PELICULAS POR FRANQUICIA
-+ def franquicia(nombre_franquicia: str):
++ franquicia(nombre_franquicia: str):
 + Se ingresa la franquicia, retornando la cantidad de peliculas, ganancia total y promedio
                     
 PELICULAS POR PAIS
-+ def peliculas_pais(pais: str):
++ peliculas_pais(pais: str):
 + Se ingresa un país (como están escritos en el dataset) y retorna la cantidad de peliculas producidas en el mismo.
 
 PELICULAS POR PRODUCTORA EXITOSA
-+ def productoras_exitosas(productora:str):
++ productoras_exitosas(productora:str):
 + Se ingresa la productora, Y entrega el revunue total y la cantidad de peliculas que realizo.
   
 ***Las funciones en google colab se pueden obtener [Aquí](https://colab.research.google.com/drive/1X8nYi6o95qbsY6VjF20r054MemS3DO35?usp=sharing)***
@@ -103,7 +103,7 @@ pelicula, se obtiene el genero y continuacion solo las peliculas que posean el m
 El sistema de recomendación toma películas similares a una película en particular. Para lograr esto, se utiliza el concepto de puntajes de similitud entre películas, los cuales se calculan en base a las descripciones de trama de cada película. Con estos puntajes, se establece un umbral de similitud y recomienda películas que superen ese umbral.
 En el sistema de recomendación, se ingresa el nombre de una película y recomienda las similares en una lista de 5 valores.
 
-+ def recomendacion(title: str):
++ recomendacion(title: str):
  ***El sistema de recomendación en google colab se puede obtener [Aquí](https://colab.research.google.com/drive/1-bzcCNxO1QJYtWM0JYacLRCN5jYP0SJA?usp=sharing)***
 
 ## DEPLOYMENT
