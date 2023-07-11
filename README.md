@@ -107,7 +107,7 @@ En el sistema de recomendación, se ingresa el nombre de una película y recomie
  ***El sistema de recomendación en google colab se puede obtener [Aquí](https://colab.research.google.com/drive/1-bzcCNxO1QJYtWM0JYacLRCN5jYP0SJA?usp=sharing)***
 
 ## DEPLOYMENT
-***El deployment de la API se visualiza Aquí***
+***El deployment de la API se visualiza [Aquí](https://data12g.onrender.com)***
 ## VIDEO DEMO
 ***El Enlace al video demostrativo se visualiza [Aquí](https://drive.google.com/file/d/17uDGJyL5Pr05yQ9TvoS-SYVnrTbLABzO/view?usp=sharing)***
 ## Proyecto completo
