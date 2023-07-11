@@ -111,3 +111,4 @@ En el sistema de recomendación, se ingresa el nombre de una película y recomie
 ## VIDEO DEMO
 ***El Enlace al video demostrativo se visualiza [Aquí](https://drive.google.com/file/d/17uDGJyL5Pr05yQ9TvoS-SYVnrTbLABzO/view?usp=sharing)***
 ## Proyecto completo
+***Se visualiza [Aquí](https://colab.research.google.com/drive/1FNky8-t7w5sMPW7E_ssfUR7NAPRO5Mfh?usp=sharing)***
